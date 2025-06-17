@@ -402,7 +402,7 @@ main {
 
 .project-item .tags {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 8px;
     margin-top: auto; /* Pushes tags to the bottom */
     margin-bottom: 20px;
